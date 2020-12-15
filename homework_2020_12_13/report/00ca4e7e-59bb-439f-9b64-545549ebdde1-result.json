@@ -1,0 +1,62 @@
+{
+  "name": "test_mul[整正数]",
+  "status": "passed",
+  "parameters": [
+    {
+      "name": "a",
+      "value": "3"
+    },
+    {
+      "name": "b",
+      "value": "5"
+    },
+    {
+      "name": "expect",
+      "value": "15"
+    }
+  ],
+  "start": 1608007332174,
+  "stop": 1608007332174,
+  "uuid": "513ccd34-db93-4d92-a8b6-72ae09863f35",
+  "historyId": "3d9a6262a78f073fef755dc86c2c0e72",
+  "testCaseId": "7eb885816cd3cbdcd177832a6e169aca",
+  "fullName": "test_calc.TestCal#test_mul",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "@pytest.mark.usefixtures('module_run')"
+    },
+    {
+      "name": "tag",
+      "value": "run(order=3)"
+    },
+    {
+      "name": "suite",
+      "value": "test_calc"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCal"
+    },
+    {
+      "name": "host",
+      "value": "Levine07.local"
+    },
+    {
+      "name": "thread",
+      "value": "72835-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "test_mul[较大数]",
+  "status": "passed",
+  "parameters": [
+    {
+      "name": "a",
+      "value": "100"
+    },
+    {
+      "name": "b",
+      "value": "300"
+    },
+    {
+      "name": "expect",
+      "value": "30000"
+    }
+  ],
+  "start": 1608007332179,
+  "stop": 1608007332179,
+  "uuid": "a525a636-ea7a-4f97-abda-3927a6912f53",
+  "historyId": "fd355c4231cf0e593183eefb373a0ae2",
+  "testCaseId": "7eb885816cd3cbdcd177832a6e169aca",
+  "fullName": "test_calc.TestCal#test_mul",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "@pytest.mark.usefixtures('module_run')"
+    },
+    {
+      "name": "tag",
+      "value": "run(order=3)"
+    },
+    {
+      "name": "suite",
+      "value": "test_calc"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCal"
+    },
+    {
+      "name": "host",
+      "value": "Levine07.local"
+    },
+    {
+      "name": "thread",
+      "value": "72835-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc"
+    }
+  ]
+}
